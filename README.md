@@ -8,7 +8,7 @@ Check the [Usage](#usage)
 ## Install
 
 ```
-go get github.com/togatoga/goforces
+go get github.com/TimurQQ/goforces
 ```
 
 ## Usage
@@ -19,7 +19,7 @@ import (
     "context"
     "fmt"
 
-    "github.com/togatoga/goforces"
+    "github.com/TimurQQ/goforces"
 )
 
 func main() {
